@@ -1,0 +1,22 @@
+
+h1{
+   
+    text-align: center;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    text-align: center;
+    color:brown;
+    font:bolder;
+}
+h4{
+    text-align: center;
+    color:goldenrod;
+    font:bold;
+    padding-top: 10%;
+}
+nav{
+    padding-top: 10%;
+}
